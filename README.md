@@ -58,9 +58,9 @@
   </a>
 </div>
 
-<!-- <img data-target="animated-image.replacedImage" alt="dino.gif" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;"> -->
+<img data-target="animated-image.replacedImage" alt="dino.gif" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
-<img data-target="animated-image.replacedImage" alt="snake.gif" src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg" style="display: block; opacity: 1;">
+<!-- <img data-target="animated-image.replacedImage" alt="snake.gif" src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg" style="display: block; opacity: 1;">  -->
 
 ### Thanks for Visiting my GitHub Profile! ❤️
 
